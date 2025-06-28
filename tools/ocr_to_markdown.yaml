@@ -1,9 +1,9 @@
 identity:
-  name: OCR_to_Markdown
+  name: RapidOCR_tool
   author: quhao
   label:
-    en_US: OCR to Markdown Converter
-    zh_Hans: OCR 转 Markdown 工具
+    en_US: RapidOCR recognition tool
+    zh_Hans: RapidOCR 识别工具
 
 description:
   human:
